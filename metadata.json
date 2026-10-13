@@ -1,0 +1,6 @@
+{
+  "name": "ATV Launcher Pro - Painel Administrativo",
+  "description": "Painel administrativo moderno em Dark Mode para gerenciamento completo de Android TV Launcher (ATV), controle de clientes, revendas, publicidade e OTA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
